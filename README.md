@@ -1,0 +1,1 @@
+here you will mainly find unofficial minecraft models made by hand, along with them in the folder after downloading you can find textures that are not added in the script, you need to add these textures. Sometimes there are original textures. Each texture is marked whether it is a fan version, official or unofficial, and so on.
